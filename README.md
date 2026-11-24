@@ -14,10 +14,26 @@ Hi there, I'm Afroz Khan 👋
 
 🛠️ Technical Skills
 
-- Programming: To be updated
-- Web Development: To be updated
-- Database: To be updated
-- Tools: Git and GitHub
+Programming Languages
+
+- Python (Basics)
+- JavaScript (Basics)
+
+Web Technologies
+
+- HTML (Basics)
+- CSS (Basics)
+
+Tools
+
+- Git
+- GitHub
+
+Currently Learning
+
+- Advanced Python
+- JavaScript Development
+- Frontend Development
 
 🚀 Projects
 
