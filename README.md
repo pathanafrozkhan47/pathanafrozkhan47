@@ -16,13 +16,13 @@ Hi there, I'm Afroz Khan 👋
 
 Programming Languages
 
-- Python (Basics)
-- JavaScript (Basics)
+- Python 
+- JavaScript 
 
 Web Technologies
 
-- HTML (Basics)
-- CSS (Basics)
+- HTML 
+- CSS 
 
 Tools
 
